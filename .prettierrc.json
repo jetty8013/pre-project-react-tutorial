@@ -1,0 +1,4 @@
+// .prettierrc.json
+{
+  "singleQuote": true
+}
