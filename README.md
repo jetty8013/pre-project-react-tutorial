@@ -1,6 +1,7 @@
 # pre-project-react-tutorial
 
-##작동 화면
+## 작동 화면
+
 ![화면_기록_2023-02-14_오후_1_28_25_AdobeExpress](https://user-images.githubusercontent.com/112256786/218639770-69b8a11b-9207-4630-9415-ae788259107d.gif)
 
 ---
