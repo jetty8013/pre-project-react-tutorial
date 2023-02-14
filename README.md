@@ -1,7 +1,9 @@
 # pre-project-react-tutorial
 
-![화면_기록_2023-02-14_오후_1_23_21_AdobeExpress](https://user-images.githubusercontent.com/112256786/218639354-1ebe48db-4156-4a92-b5ae-888cd4e5d97f.gif)
+##작동 화면
+![화면_기록_2023-02-14_오후_1_28_25_AdobeExpress](https://user-images.githubusercontent.com/112256786/218639770-69b8a11b-9207-4630-9415-ae788259107d.gif)
 
+---
 
 |커밋|제목|
 |:------:|:---:|
