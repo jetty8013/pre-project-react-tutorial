@@ -1,4 +1,6 @@
 # pre-project-react-tutorial
+프로젝트 전 협업 연습
+
 
 ## 작동 화면
 
